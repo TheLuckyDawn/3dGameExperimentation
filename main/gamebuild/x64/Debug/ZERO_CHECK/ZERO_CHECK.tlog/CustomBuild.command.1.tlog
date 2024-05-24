@@ -1,0 +1,10 @@
+^C:\USERS\SWORD\DOCUMENTS\GITHUB\3DGAMEEXPERIMENTATION\MAIN\GAMEBUILD\CMAKEFILES\8871A3A743EB77E2C6E6D51F29D403D0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sword/Documents/GitHub/3dGameExperimentation/main -BC:/Users/sword/Documents/GitHub/3dGameExperimentation/main/gamebuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/sword/Documents/GitHub/3dGameExperimentation/main/gamebuild/3DGameProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

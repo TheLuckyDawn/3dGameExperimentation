@@ -1,0 +1,3 @@
+C:/Users/sword/Documents/GitHub/3dGameExperimentation/main/gamebuild/CMakeFiles/main.dir
+C:/Users/sword/Documents/GitHub/3dGameExperimentation/main/gamebuild/CMakeFiles/edit_cache.dir
+C:/Users/sword/Documents/GitHub/3dGameExperimentation/main/gamebuild/CMakeFiles/rebuild_cache.dir

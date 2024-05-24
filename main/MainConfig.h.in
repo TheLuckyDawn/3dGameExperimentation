@@ -1,0 +1,5 @@
+//Version Definitions
+#define _3DGameProject_VERSION_MAJOR @_3DGameProject_VERSION_MAJOR@
+#define _3DGameProject_VERSION_MINOR @_3DGameProject_VERSION_MINOR@
+#define _3DGameProject_VERSION_PATCH @_3DGameProject_VERSION_PATCH@
+#define _3DGameProject_VERSION_TWEAK @_3DGameProject_VERSION_TWEAK@
